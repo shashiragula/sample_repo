@@ -1,3 +1,3 @@
 #init.java
-#author:shashikanth ragula
+#author:Shashikanth Ragula
 #KPCC
